@@ -9,7 +9,7 @@
                 ['title' => 'forms', 'href' => 'https://github.com/terrific-mx/forms'],
             ]],
             ['title' => 'Product', 'links' => [
-                ['title' => 'Professional Photo', 'href' => '/foto-profesional'],
+                ['title' => 'Foto Profesional', 'href' => '/foto-profesional'],
             ]]
         ],
         'es' => [

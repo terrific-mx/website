@@ -8,7 +8,7 @@
                     <div class="mx-auto max-w-2xl lg:max-w-none">
                         <div class="max-w-3xl">
                             <h1 class="text-5xl font-medium tracking-tight [text-wrap:balance] text-neutral-950 sm:text-7xl">
-                                The Terrific Software Studio
+                                The Terrific Software Studio.
                             </h1>
                             <p class="mt-6 text-xl text-neutral-600">
                                 Un estudio de software web independiente por <a href="https://x.com/oliverservinX" class="underline">@oliverservinX</a>. Combinamos proyectos de investigación de código abierto con productos web comerciales.
