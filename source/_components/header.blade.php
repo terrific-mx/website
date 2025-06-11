@@ -1,5 +1,5 @@
 @props([
-    'currentLanguage' => 'English'
+    'language' => 'en'
 ])
 
 <header>
@@ -14,9 +14,9 @@
                     <div class="flex items-center gap-x-8">
                         <a
                             class="inline-flex rounded-full px-4 py-1.5 text-sm font-semibold transition bg-neutral-950 text-white hover:bg-neutral-800"
-                            href="/en"
+                            href="{{ $language === 'en' ? '/' : '/en' }}"
                         >
-                            <span>{{ $currentLanguage }}</span>
+                            <span>{{ $language === 'en' ? 'Español' : 'English' }}</span>
                         </a>
                     </div>
                 </div>

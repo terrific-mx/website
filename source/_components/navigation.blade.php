@@ -1,21 +1,31 @@
-@props([
-    'sections' => [
-        [
-            'title' => 'Research',
-            'links' => [
+@props(['language' => 'en'])
+
+@php
+    $navigationData = [
+        'en' => [
+            ['title' => 'Research', 'links' => [
                 ['title' => 'feedback', 'href' => 'https://github.com/terrific-mx/feedback'],
                 ['title' => 'headshot', 'href' => 'https://github.com/terrific-mx/headshot'],
                 ['title' => 'forms', 'href' => 'https://github.com/terrific-mx/forms'],
-            ]
+            ]],
+            ['title' => 'Product', 'links' => [
+                ['title' => 'Professional Photo', 'href' => '/foto-profesional'],
+            ]]
         ],
-        [
-            'title' => 'Product',
-            'links' => [
+        'es' => [
+            ['title' => 'Investigación', 'links' => [
+                ['title' => 'feedback', 'href' => 'https://github.com/terrific-mx/feedback'],
+                ['title' => 'headshot', 'href' => 'https://github.com/terrific-mx/headshot'],
+                ['title' => 'forms', 'href' => 'https://github.com/terrific-mx/forms'],
+            ]],
+            ['title' => 'Producto', 'links' => [
                 ['title' => 'Foto Profesional', 'href' => '/foto-profesional'],
-            ]
+            ]]
         ]
-    ]
-])
+    ];
+
+    $sections = $navigationData[$language] ?? $navigationData['en'];
+@endphp
 
 <nav>
     <ul role="list" class="grid grid-cols-2 gap-8 sm:grid-cols-3">

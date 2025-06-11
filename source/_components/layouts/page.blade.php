@@ -1,7 +1,7 @@
-@props(['page'])
+@props(['page', 'language' => 'en'])
 
 <!DOCTYPE html>
-<html lang="{{ $page->language ?? 'en' }}" class="h-full bg-neutral-950 text-base antialiased">
+<html lang="{{ $language }}" class="h-full bg-neutral-950 text-base antialiased">
     <head>
         @include('_partials.head')
     </head>

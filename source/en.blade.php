@@ -1,5 +1,5 @@
-<x-layouts.page :page="$page">
-    <x-header />
+<x-layouts.page :page="$page" language="en">
+    <x-header language="en" />
 
     <div class="relative flex flex-auto overflow-hidden bg-white pt-14 rounded-t-[40px]">
         <div class="relative isolate flex w-full flex-col pt-9">
@@ -11,14 +11,14 @@
                                 The Terrific Software Studio based in Mexico.
                             </h1>
                             <p class="mt-6 text-xl text-neutral-600">
-                                A solo web software studio by @oliverservinX, shipping things that sometimes might work. We blend open source research projects with commercial web products — terrific results not guaranteed.
+                                A solo web software studio by <a href="https://x.com/oliverservinX" class="underline">@oliverservinX</a>. We blend open source research projects with commercial web products.
                             </p>
                         </div>
                     </div>
                 </div>
             </main>
 
-            <x-footer />
+            <x-footer language="en" />
         </div>
     </div>
 </x-layouts.page>
