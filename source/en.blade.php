@@ -8,10 +8,10 @@
                     <div class="mx-auto max-w-2xl lg:max-w-none">
                         <div class="max-w-3xl">
                             <h1 class="text-5xl font-medium tracking-tight [text-wrap:balance] text-neutral-950 sm:text-7xl">
-                                El Estudio de Software Terrific.
+                                The Terrific Software Studio based in Mexico.
                             </h1>
                             <p class="mt-6 text-xl text-neutral-600">
-                                Un estudio de software web independiente por @oliverservinX, entregando cosas que a veces podrían funcionar. Combinamos proyectos de investigación de código abierto con productos web comerciales — resultados terríficos no garantizados.
+                                A solo web software studio by @oliverservinX, shipping things that sometimes might work. We blend open source research projects with commercial web products — terrific results not guaranteed.
                             </p>
                         </div>
                     </div>
