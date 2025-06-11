@@ -9,7 +9,7 @@
                 <div class="flex items-center justify-between">
                     <a aria-label="Home" href="/" class="group/logo">
                         <x-logo mobile class="sm:hidden" />
-                        <x-logo class="hidden sm:block" />
+                        <x-logo class="hidden sm:flex" />
                     </a>
                     <div class="flex items-center gap-x-8">
                         <a
