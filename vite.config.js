@@ -1,13 +1,18 @@
-import { defineConfig } from 'vite';
-import jigsaw from '@tighten/jigsaw-vite-plugin';
+import {
+    defineConfig
+} from 'vite';
+import laravel from 'laravel-vite-plugin';
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
     plugins: [
-        jigsaw({
-            input: ['source/_assets/js/main.js', 'source/_assets/css/main.css'],
+        laravel({
+            input: ['resources/css/app.css', 'resources/js/app.js'],
             refresh: true,
         }),
         tailwindcss(),
     ],
+    server: {
+        cors: true,
+    },
 });
