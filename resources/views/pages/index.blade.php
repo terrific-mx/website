@@ -27,17 +27,17 @@
             <ul class="ml-6 space-y-1 list-disc marker:text-zinc-400 dark:marker:text-zinc-500">
                 <li>
                     <flux:text size="lg" inline>
-                        <flux:link href="#prioritize">forms</flux:link>
+                        <flux:link href="https://github.com/terrific-mx/forms">forms</flux:link>
                     </flux:text>
                 </li>
                 <li>
                     <flux:text size="lg" inline>
-                        <flux:link href="#control">feedback</flux:link>
+                        <flux:link href="https://github.com/terrific-mx/feedback">feedback</flux:link>
                     </flux:text>
                 </li>
                 <li>
                     <flux:text size="lg" inline>
-                        <flux:link href="#loop">headshot</flux:link>
+                        <flux:link href="https://github.com/terrific-mx/headshot">headshot</flux:link>
                     </flux:text>
                 </li>
             </ul>
