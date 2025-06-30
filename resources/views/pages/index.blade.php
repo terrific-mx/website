@@ -56,11 +56,6 @@
                 </li>
                 <li>
                     <flux:text size="lg" inline>
-                        <flux:link href="https://forms.terrific.com.mx">Terrific Forms</flux:link>
-                    </flux:text>
-                </li>
-                <li>
-                    <flux:text size="lg" inline>
                         <flux:link href="https://fotoprofesional.com.mx">Foto Profesional</flux:link>
                     </flux:text>
                 </li>
