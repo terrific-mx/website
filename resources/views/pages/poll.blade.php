@@ -4,9 +4,17 @@
         @include('partials.poll-head', ['title' => 'Terrific Poll - Agrega encuestas interactivas a cualquier newsletter, sin complicaciones técnicas'])
     </head>
     <body class="bg-zinc-50">
-        <header class="sticky flex justify-end p-6 gap-4">
-            <flux:button href="https://poll.terrific.com.mx/login" variant="subtle" size="sm" wire:navigate>Iniciar sesión</flux:button>
-            <flux:button href="https://poll.terrific.com.mx/register" variant="primary" color="amber" size="sm" wire:navigate>Comenzar ahora</flux:button>
+        <header class="sticky flex justify-between items-center p-6 gap-4">
+            <flux:brand href="/poll" name="Terrific Poll">
+                <x-slot name="logo">
+                    <x-app-logo-icon class="size-4" />
+                </x-slot>
+            </flux:brand>
+
+            <div class="flux justify-end">
+                <flux:button href="https://poll.terrific.com.mx/login" variant="subtle" size="sm" wire:navigate>Iniciar sesión</flux:button>
+                <flux:button href="https://poll.terrific.com.mx/register" variant="primary" color="amber" size="sm" wire:navigate>Comenzar ahora</flux:button>
+            </div>
         </header>
 
         <main class="
