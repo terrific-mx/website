@@ -7,7 +7,7 @@
         <div class="p-6 pb-0">
             <flux:callout icon="phone" icon:variant="solid">
                 <flux:callout.heading>
-                    ¡Estamos disponibles! Llámanos al
+                    <span class="max-sm:hidden">¡Estamos disponibles!</span> Llámanos al
                     <flux:callout.link href="tel:+52 33 4474 7654">+52 33 4474 7654</flux:callout.link>
                 </flux:callout.heading>
             </flux:callout>
