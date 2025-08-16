@@ -166,7 +166,7 @@
                         $79 MXN al año después de la prueba gratuita
                     </li>
                 </ul>
-                <flux:button href="https://poll.terrific.com.mx" variant="primary" color="amber" class="mt-10 w-full text-base!">
+                <flux:button href="https://poll.terrific.com.mx/register" variant="primary" color="amber" class="mt-10 w-full text-base!">
                     Empieza ahora — <strong>30 días gratis</strong>
                 </flux:button>
             </flux:card>
