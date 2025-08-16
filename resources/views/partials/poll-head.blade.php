@@ -8,13 +8,13 @@
 <meta property="og:site_name" content="{{ config('app.name') }}">
 <meta property="og:title" content="{{ config('app.name') }}">
 <meta property="og:description" content="Crea, inserta y analiza encuestas en tus correos electrónicos, aunque tu plataforma no las soporte. Sin código, sin límites, sin dolores de cabeza.">
-<meta property="og:image" content="{{ url('/opengraph.png') }}">
+<meta property="og:image" content="{{ url('/poll-opengraph.png') }}">
 <meta property="og:url" content="{{ url('/') }}">
 <meta property="og:type" content="website">
 
 <meta name="twitter:title" content="{{ config('app.name') }}">
 <meta name="twitter:description" content="Crea, inserta y analiza encuestas en tus correos electrónicos, aunque tu plataforma no las soporte. Sin código, sin límites, sin dolores de cabeza.">
-<meta name="twitter:image" content="{{ url('/opengraph.png') }}">
+<meta name="twitter:image" content="{{ url('/poll-opengraph.png') }}">
 <meta name="twitter:image:alt" content="{{ config('app.name') }}">
 <meta name="twitter:card" content="summary_large_image">
 
