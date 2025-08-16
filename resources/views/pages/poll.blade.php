@@ -6,14 +6,14 @@
     <body class="bg-zinc-50">
         <div class="p-6 pb-0">
             <flux:callout icon="phone" icon:variant="solid">
-                <flux:callout.heading>
+                <flux:callout.heading class="max-sm:justify-center">
                     <span class="max-sm:hidden">¡Estamos disponibles!</span> Llámanos al
                     <flux:callout.link href="tel:+52 33 4474 7654">+52 33 4474 7654</flux:callout.link>
                 </flux:callout.heading>
             </flux:callout>
         </div>
 
-        <header class="sticky flex justify-between items-center p-6 gap-4">
+        <header class="sticky flex flex-wrap justify-between max-sm:justify-center items-center p-6 gap-4">
             <flux:brand href="/poll" name="Terrific Poll">
                 <x-slot name="logo">
                     <x-app-logo-icon class="size-4" />
