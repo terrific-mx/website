@@ -4,6 +4,15 @@
         @include('partials.poll-head', ['title' => 'Terrific Poll - Agrega encuestas interactivas a cualquier newsletter, sin complicaciones técnicas'])
     </head>
     <body class="bg-zinc-50">
+        <div class="p-6 pb-0">
+            <flux:callout icon="phone" icon:variant="solid">
+                <flux:callout.heading>
+                    ¡Estamos disponibles! Llámanos al
+                    <flux:callout.link href="tel:+52 33 4474 7654">+52 33 4474 7654</flux:callout.link>
+                </flux:callout.heading>
+            </flux:callout>
+        </div>
+
         <header class="sticky flex justify-between items-center p-6 gap-4">
             <flux:brand href="/poll" name="Terrific Poll">
                 <x-slot name="logo">
@@ -171,7 +180,7 @@
                     <x-app-logo-icon class="size-4 text-zinc-300" />
                     <span><strong class="font-medium">poll.terrific</strong>.com.mx</span>
                 </p>
-                <p class="text-sm">by <strong class="font-medium">Oliver Servín</strong></p>
+                <p class="text-sm">por <flux:link href="https://world.hey.com/oliver.servin" variant="subtle">Oliver Servín</flux:link></p>
             </div>
         </main>
     </body>
