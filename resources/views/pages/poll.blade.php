@@ -4,9 +4,9 @@
         @include('partials.poll-head', ['title' => 'Terrific Poll - Agrega encuestas interactivas a cualquier newsletter, sin complicaciones técnicas'])
     </head>
     <body class="bg-zinc-50">
-        <div class="p-6 pb-0">
+        <div class="p-4 pb-0 max-w-lg mx-auto">
             <flux:callout icon="phone" icon:variant="solid">
-                <flux:callout.heading class="max-sm:justify-center">
+                <flux:callout.heading class="justify-center">
                     <span class="max-sm:hidden">¡Estamos disponibles!</span> Llámanos al
                     <flux:callout.link href="tel:+52 33 4474 7654">+52 33 4474 7654</flux:callout.link>
                 </flux:callout.heading>
