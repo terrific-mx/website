@@ -90,7 +90,7 @@
                 <strong>Exporta los datos cuando quieras.</strong> Sin bloqueos, sin ataduras, sin sorpresas.
             </p>
 
-            <h2 class="mt-20"><strong>Pruébalo gratis por 30 días</strong></h2>
+            <h2 class="mt-20">Pruébalo gratis por 30 días</h2>
 
             <p class="mt-6">
                 Después, paga solo <strong>$79 MXN al año</strong>. <strong>Cancela cuando quieras</strong>, sin letras chiquitas ni cargos ocultos.
