@@ -41,44 +41,44 @@
                 Recibe respuestas de tus formularios sin necesidad de backend
             </h1>
             <p class="max-w-lg mx-auto mt-6" data-lead>
-                Solo copia y pega tu endpoint y comienza a recibir leads.
+                Solo copia y pega tu endpoint y comienza a recibir <strong>leads</strong>.
             </p>
 
             <p class="mt-48">
-                Manejo instantáneo de formularios para sitios estáticos y constructores (Wix, Webflow, Squarespace). Prueba gratis 30 días. Después, 79 MXN/año por formularios y envíos ilimitados.
+                Manejo instantáneo de formularios para sitios estáticos y constructores (Wix, Webflow, Squarespace). <strong>Prueba gratis 30 días.</strong> Después, <strong>79 MXN/año</strong> por formularios y envíos ilimitados.
             </p>
 
             <p class="mt-6">
-                Ideal para desarrolladores, diseñadores y pequeñas agencias que lanzan landing pages — y propietarios sin conocimientos técnicos que usan Wix, Webflow o Squarespace y quieren capturar leads sin backend.
+                Ideal para <strong>desarrolladores, diseñadores y pequeñas agencias</strong> que lanzan landing pages — y propietarios sin conocimientos técnicos que usan Wix, Webflow o Squarespace y quieren <strong>capturar leads sin backend</strong>.
             </p>
 
             <h2 class="mt-20">Formularios sin servidor para sitios estáticos</h2>
 
             <p class="mt-6">
-                Sin servidor. Sin despliegues. Sin complicaciones. Solo apunta tu formulario a una URL y empieza a recibir envíos en minutos.
+                <strong>Sin servidor. Sin despliegues. Sin complicaciones.</strong> Solo apunta tu formulario a una URL y empieza a recibir envíos en minutos.
             </p>
 
             <p class="mt-6">
-                Crea un formulario en segundos, copia el endpoint generado y pégalo en el atributo action de tu formulario — los envíos llegan a tu cuenta y disparan notificaciones por correo. Mantén tu HTML y diseño tal cual; Terrific Form solo captura los datos que le envías.
+                Crea un formulario en segundos, copia el endpoint generado y pégalo en el atributo action de tu formulario — los envíos llegan a tu cuenta y disparan <strong>notificaciones por correo</strong>. Mantén tu HTML y diseño tal cual; Terrific Form solo captura los datos que le envías.
             </p>
 
             <p class="mt-6">
-                Olvídate de configurar SMTP, preocuparte por la seguridad del servidor o alojar formularios. Formularios y envíos ilimitados por una tarifa anual baja hacen que la captura de leads sea predecible y económica. Consulta el historial de envíos, busca entradas pasadas y recibe notificaciones en el momento en que llega un lead — ideal para landing pages, portafolios y sitios corporativos donde cada mensaje importa.
+                Olvídate de configurar SMTP, preocuparte por la seguridad del servidor o alojar formularios. <strong>Formularios y envíos ilimitados</strong> por una tarifa anual baja hacen que la captura de leads sea <strong>predecible y económica</strong>. Consulta el <strong>historial de envíos</strong>, busca entradas pasadas y recibe <strong>notificaciones</strong> en el momento en que llega un lead — ideal para landing pages, portafolios y sitios corporativos donde <strong>cada mensaje importa</strong>.
             </p>
 
             <h2 class="mt-20">Endpoints rápidos y precios previsibles</h2>
 
             <p class="mt-6">
-                Endpoints instantáneos: crea un formulario y obtén una URL de action al instante. <strong>Lanza más rápido.</strong>
+                 <strong>Lanza más rápido. Endpoints instantáneos</strong>: crea un formulario y obtén una URL de action al instante.
             </p>
 
-            <p class="mt-6">Formularios y envíos ilimitados: tarifa plana anual — sin cargos sorpresa. <strong>Costos previsibles.</strong></p>
+            <p class="mt-6"><strong>Costos previsibles</strong>. Formularios y envíos ilimitados: tarifa plana anual — sin cargos sorpresa.</p>
 
-            <p class="mt-6">Alertas por correo: recibe notificaciones de nuevos envíos para responder rápido. <strong>Contacto más veloz con clientes potenciales.</strong></p>
+            <p class="mt-6"><strong>Contacto más veloz con clientes potenciales</strong>. Alertas por correo: recibe notificaciones de nuevos envíos para responder rápido.</p>
 
-            <p class="mt-6">Historial de envíos: navega, busca y exporta entradas anteriores. <strong>Lleva registros sin herramientas adicionales.</strong></p>
+            <p class="mt-6"><strong>Lleva registros sin herramientas adicionales</strong>. Historial de envíos: navega, busca y exporta entradas anteriores.</p>
 
-            <p class="mt-6">HTTPS por defecto: todos los endpoints cifran los datos en tránsito. <strong>Mayor seguridad.</strong></p>
+            <p class="mt-6"><strong>Mayor seguridad</strong>. HTTPS por defecto: todos los endpoints cifran los datos en tránsito.</p>
 
             <h2 class="mt-20">Privacidad, seguridad e integraciones</h2>
 
@@ -87,11 +87,11 @@
             </p>
 
             <p class="mt-6">
-                <strong>¿Seguridad?</strong> Todos los endpoints usan HTTPS y protección estándar — tus datos viajan siempre cifrados.
+                <strong>¿Seguridad?</strong> Todos los endpoints usan <strong>HTTPS</strong> y protección estándar — tus datos viajan siempre <strong>cifrados</strong>.
             </p>
 
             <p class="mt-6">
-                <strong>¿Integraciones o webhooks?</strong> Por ahora puedes exportar datos manualmente; los webhooks están en fase de planeación.
+                <strong>¿Integraciones o webhooks?</strong> Por ahora puedes <strong>exportar datos manualmente</strong>; los <strong>webhooks</strong> están en fase de planeación.
             </p>
 
             <p class="mt-6">
@@ -102,7 +102,7 @@
                 <h2 class="text-2xl max-sm:text-xl font-medium tracking-tight text-zinc-950 text-center mt-2">
                     Prueba gratuita de 30 días
                 </h2>
-                <p class="text-center mt-4">Prueba todas las funcionalidades completas antes de pagar.</p>
+                <p class="text-center mt-4">Prueba todas las funcionalidades antes de pagar.</p>
                 <ul class="mt-10 gap-3 grid md:grid-cols-2 md:gap-x-6 md:gap-y-3 text-sm">
                     <li class="flex gap-2">
                         <flux:icon.check-circle variant="mini" class="text-green-500" />
@@ -130,7 +130,7 @@
             </flux:card>
 
             <p class="mt-20">
-                <strong>Captura leads hoy sin servidores</strong> — sin riesgo durante 30 días y a bajo costo después.
+                <strong>Captura leads hoy sin servidores</strong> — <strong>sin riesgo durante 30 días</strong> y a bajo costo después.
             </p>
 
             <div class="mt-64 flex items-center justify-between text-zinc-400">
