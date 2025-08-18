@@ -55,18 +55,20 @@
             <h2 class="mt-20">Sin servidor. Sin despliegues. Sin complicaciones.</h2>
 
             <p class="mt-6">
-                Apunta tu formulario a una URL y empieza a recibir envíos en minutos.
+                Solo apunta tu formulario a una URL y empieza a recibir envíos en minutos.
             </p>
 
             <p class="mt-6">
-                Crea un formulario con nombre en segundos, copia el endpoint generado y pégalo en el atributo action de tu formulario — los envíos llegan a tu cuenta y disparan notificaciones por correo. Mantén tu HTML y diseño tal cual; Terrific Form solo captura los datos que le envías.
+                Crea un formulario en segundos, copia el endpoint generado y pégalo en el atributo action de tu formulario — los envíos llegan a tu cuenta y disparan notificaciones por correo. Mantén tu HTML y diseño tal cual; Terrific Form solo captura los datos que le envías.
             </p>
 
             <p class="mt-6">
-                Olvídate de configurar SMTP, preocupar por la seguridad del servidor o alojar formularios. Formularios y envíos ilimitados por una tarifa anual baja hacen que la captura de leads sea predecible y económica. Consulta el historial de envíos, busca entradas pasadas y recibe notificaciones en el momento en que llega un lead — ideal para landing pages, portafolios y sitios corporativos donde cada mensaje importa.
+                Olvídate de configurar SMTP, preocuparte por la seguridad del servidor o alojar formularios. Formularios y envíos ilimitados por una tarifa anual baja hacen que la captura de leads sea predecible y económica. Consulta el historial de envíos, busca entradas pasadas y recibe notificaciones en el momento en que llega un lead — ideal para landing pages, portafolios y sitios corporativos donde cada mensaje importa.
             </p>
 
-            <p class="mt-20">
+            <h2 class="mt-20">Untitled</h2>
+
+            <p class="mt-6">
                 Endpoints instantáneos: crea un formulario y obtén una URL de action al instante. <strong>Lanza más rápido.</strong>
             </p>
 
@@ -78,22 +80,22 @@
 
             <p class="mt-6">HTTPS por defecto: todos los endpoints cifran los datos en tránsito. <strong>Mayor seguridad.</strong></p>
 
-            <p class="mt-6">Controles anti‑spam básicos: limitación de tasa y validaciones sencillas reducen el ruido. <strong>Menos falsos leads.</strong></p>
+            <h2 class="mt-20">Untitled</h2>
 
             <p class="mt-6">
-                <strong>¿Privacidad?</strong> Los envíos se almacenan de forma segura y solo los usuarios autorizados de la cuenta tienen acceso. Si necesitas exportar todo, soporte puede ofrecer CSV o JSON.
-            </p>
-
-            <p class="mt-48">
-                <strong>¿Seguridad?</strong> Todos los endpoints usan HTTPS y protecciones estándar de la industria — tus datos viajan cifrados.
+                <strong>¿Privacidad?</strong> Los envíos se almacenan de forma segura y solo los usuarios autorizados de la cuenta tienen acceso. Si necesitas exportar todo, nuestro soporte puede ofrecerte archivos CSV o JSON.
             </p>
 
             <p class="mt-6">
-                <strong>¿Integraciones o webhooks?</strong> Por ahora puedes exportar datos manualmente; los webhooks están en la hoja de ruta.
+                <strong>¿Seguridad?</strong> Todos los endpoints usan HTTPS y protección estándar — tus datos viajan siempre cifrados.
             </p>
 
             <p class="mt-6">
-                <strong>¿Prefieres autoalojar?</strong> Este servicio es hospedado para mayor comodidad — si decides migrar, soporte te ayuda con una exportación limpia.
+                <strong>¿Integraciones o webhooks?</strong> Por ahora puedes exportar datos manualmente; los webhooks están en fase de planeación.
+            </p>
+
+            <p class="mt-6">
+                <strong>¿Prefieres migrar?</strong> Este servicio es hospedado en la nuebe para tu mayor comodidad — si decides migrar, nuestro servicio de soporte te ayuda con una exportación de tus datos.
             </p>
 
             <flux:card class="max-w-lg mx-auto mt-20">

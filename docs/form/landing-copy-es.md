@@ -1,4 +1,4 @@
-# Terrific Form — Página de destino (borrador)
+# Terrific Form — Página landing (borrador)
 
 ## Titular
 Obtén respuestas de tus formularios sin escribir código de servidor — pega un endpoint y comienza a recibir leads.
