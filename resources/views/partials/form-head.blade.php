@@ -8,13 +8,13 @@
 <meta property="og:site_name" content="{{ config('app.name') }}">
 <meta property="og:title" content="{{ config('app.name') }}">
 <meta property="og:description" content="Recibe envíos al instante desde sitios estáticos y creadores de páginas (Wix, Webflow, Squarespace). <strong>Prueba gratis 30 días.</strong> Después, <strong>79 MXN/año</strong> por formularios y envíos ilimitados.">
-<meta property="og:image" content="{{ url('/poll-opengraph.png') }}">
+<meta property="og:image" content="{{ url('/form-opengraph.png') }}">
 <meta property="og:url" content="{{ url('/') }}">
 <meta property="og:type" content="website">
 
 <meta name="twitter:title" content="{{ config('app.name') }}">
 <meta name="twitter:description" content="Recibe envíos al instante desde sitios estáticos y creadores de páginas (Wix, Webflow, Squarespace). <strong>Prueba gratis 30 días.</strong> Después, <strong>79 MXN/año</strong> por formularios y envíos ilimitados.">
-<meta name="twitter:image" content="{{ url('/poll-opengraph.png') }}">
+<meta name="twitter:image" content="{{ url('/form-opengraph.png') }}">
 <meta name="twitter:image:alt" content="{{ config('app.name') }}">
 <meta name="twitter:card" content="summary_large_image">
 
