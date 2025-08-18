@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}" class="antialiased">
     <head>
-        @include('partials.poll-head', ['title' => 'Terrific Poll - Recibe respuestas a tus formularios sin necesidad de backend. Solo copia y pega tu endpoint y comienza a recibir leads.'])
+        @include('partials.form-head', ['title' => 'Terrific Poll - Recibe respuestas a tus formularios sin necesidad de backend. Solo copia y pega tu endpoint y comienza a recibir leads.'])
     </head>
     <body class="bg-zinc-50">
         <div class="p-4 pb-0 max-w-lg mx-auto">
