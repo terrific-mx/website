@@ -130,7 +130,7 @@
             </flux:card>
 
             <p class="mt-20">
-                <strong>Captura leads hoy sin servidores</strong> — <strong>sin riesgo durante 30 días</strong> y a bajo costo después.
+                <strong>Captura leads hoy sin servidores</strong> — <strong>sin riesgo durante 30 días</strong> y a un precio bajo después.
             </p>
 
             <div class="mt-64 flex items-center justify-between text-zinc-400">
