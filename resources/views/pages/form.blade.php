@@ -41,7 +41,7 @@
                 Recibe respuestas a tus formularios sin necesidad de backend
             </h1>
             <p class="max-w-lg mx-auto mt-6" data-lead>
-                Solo copia y pega tu endpoint y comienza a recibir <strong>leads</strong>.
+                Solo copia y pega tu endpoint y comienza a recibir leads.
             </p>
 
             <p class="mt-48">
