@@ -59,11 +59,13 @@
             </p>
 
             <p class="mt-6">
-                Crea un formulario en segundos, copia el endpoint generado y pégalo en el atributo <code class="font-medium bg-yellow-200 text-zinc-950 px-1">action</code> de tu formulario — los envíos llegan a tu cuenta y despachan <strong>notificaciones por correo</strong>. Mantén tu HTML y diseño tal cual; Terrific Form solo captura los datos que le envías.
+                Crea un formulario en segundos, copia el endpoint generado y pégalo en el atributo <code class="font-medium bg-yellow-200 text-zinc-950 px-1">action</code> de tu formulario — los envíos llegan a tu cuenta y también recibes una <strong>notificación por correo</strong>. Mantén tu HTML y diseño tal cual; Terrific Form solo captura los datos que le envías.
             </p>
 
             <p class="mt-6">
-                Olvídate de configurar SMTP, asegurar servidores u hospedar formularios. <strong>Formularios y envíos ilimitados</strong> por una tarifa anual baja hacen que capturar leads sea <strong>predecible y económico</strong>. Consulta el <strong>historial de entradas</strong>, busca entradas recibidas y recibe <strong>notificaciones</strong> en el momento en que llega un lead — ideal para landing pages, portafolios y sitios corporativos donde <strong>cada mensaje importa</strong>.
+                Olvídate de configurar SMTP, asegurar servidores u hospedar formularios.
+                <strong>Formularios y envíos ilimitados</strong> por un precio anual bajo hacen que capturar leads sea <strong>predecible y económico</strong>.
+                Consulta el <strong>historial de entradas</strong>, busca entradas recibidas y recibe <strong>notificaciones</strong> en el momento en que llega un lead — ideal para landing pages, portafolios y sitios corporativos donde <strong>cada mensaje importa</strong>.
             </p>
 
             <h2 class="mt-20">Endpoints rápidos y precios previsibles</h2>
