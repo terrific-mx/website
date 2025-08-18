@@ -38,45 +38,45 @@
             [&>ul>li>p>strong]:text-zinc-950 [&>ul>li>p>strong]:font-medium
         ">
             <h1>
-                Recibe respuestas de tus formularios sin necesidad de backend
+                Recibe respuestas a tus formularios sin necesidad de backend
             </h1>
             <p class="max-w-lg mx-auto mt-6" data-lead>
                 Solo copia y pega tu endpoint y comienza a recibir <strong>leads</strong>.
             </p>
 
             <p class="mt-48">
-                Manejo instantáneo de formularios para sitios estáticos y constructores (Wix, Webflow, Squarespace). <strong>Prueba gratis 30 días.</strong> Después, <strong>79 MXN/año</strong> por formularios y envíos ilimitados.
+                Recibe envíos al instante desde sitios estáticos y creadores de páginas (Wix, Webflow, Squarespace). <strong>Prueba gratis 30 días.</strong> Después, <strong>79 MXN/año</strong> por formularios y envíos ilimitados.
             </p>
 
             <p class="mt-6">
-                Ideal para <strong>desarrolladores, diseñadores y pequeñas agencias</strong> que lanzan landing pages — y propietarios sin conocimientos técnicos que usan Wix, Webflow o Squarespace y quieren <strong>capturar leads sin backend</strong>.
+                Ideal para <strong>desarrolladores, diseñadores y pequeñas agencias</strong> que crean landing pages — y para propietarios de sitios sin conocimientos técnicos que usan Wix, Webflow o Squarespace y quieren <strong>capturar leads sin backend</strong>.
             </p>
 
-            <h2 class="mt-20">Formularios sin servidor para sitios estáticos</h2>
+            <h2 class="mt-20">Formularios sin un servidor</h2>
 
             <p class="mt-6">
                 <strong>Sin servidor. Sin despliegues. Sin complicaciones.</strong> Solo apunta tu formulario a una URL y empieza a recibir envíos en minutos.
             </p>
 
             <p class="mt-6">
-                Crea un formulario en segundos, copia el endpoint generado y pégalo en el atributo action de tu formulario — los envíos llegan a tu cuenta y disparan <strong>notificaciones por correo</strong>. Mantén tu HTML y diseño tal cual; Terrific Form solo captura los datos que le envías.
+                Crea un formulario en segundos, copia el endpoint generado y pégalo en el atributo <code class="font-medium bg-yellow-200 text-zinc-950 px-1">action</code> de tu formulario — los envíos llegan a tu cuenta y despachan <strong>notificaciones por correo</strong>. Mantén tu HTML y diseño tal cual; Terrific Form solo captura los datos que le envías.
             </p>
 
             <p class="mt-6">
-                Olvídate de configurar SMTP, preocuparte por la seguridad del servidor o alojar formularios. <strong>Formularios y envíos ilimitados</strong> por una tarifa anual baja hacen que la captura de leads sea <strong>predecible y económica</strong>. Consulta el <strong>historial de envíos</strong>, busca entradas pasadas y recibe <strong>notificaciones</strong> en el momento en que llega un lead — ideal para landing pages, portafolios y sitios corporativos donde <strong>cada mensaje importa</strong>.
+                Olvídate de configurar SMTP, asegurar servidores u hospedar formularios. <strong>Formularios y envíos ilimitados</strong> por una tarifa anual baja hacen que capturar leads sea <strong>predecible y económico</strong>. Consulta el <strong>historial de entradas</strong>, busca entradas recibidas y recibe <strong>notificaciones</strong> en el momento en que llega un lead — ideal para landing pages, portafolios y sitios corporativos donde <strong>cada mensaje importa</strong>.
             </p>
 
             <h2 class="mt-20">Endpoints rápidos y precios previsibles</h2>
 
             <p class="mt-6">
-                 <strong>Lanza más rápido. Endpoints instantáneos</strong>: crea un formulario y obtén una URL de action al instante.
+                <strong>Lanza más rápido</strong>. Endpoints instantáneos: crea un formulario y obtén una URL de <code class="font-medium bg-yellow-200 text-zinc-950 px-1">action</code> al instante.
             </p>
 
             <p class="mt-6"><strong>Costos previsibles</strong>. Formularios y envíos ilimitados: tarifa plana anual — sin cargos sorpresa.</p>
 
-            <p class="mt-6"><strong>Contacto más veloz con clientes potenciales</strong>. Alertas por correo: recibe notificaciones de nuevos envíos para responder rápido.</p>
+            <p class="mt-6"><strong>Contacto más veloz con clientes potenciales.</strong> Alertas por correo: recibe notificaciones de nuevos envíos para responder rápido.</p>
 
-            <p class="mt-6"><strong>Lleva registros sin herramientas adicionales</strong>. Historial de envíos: navega, busca y exporta entradas anteriores.</p>
+            <p class="mt-6"><strong>Gestiona tus entradas sin herramientas adicionales</strong>. Historial de entradas: explora, busca y exporta entradas anteriores.</p>
 
             <p class="mt-6"><strong>Mayor seguridad</strong>. HTTPS por defecto: todos los endpoints cifran los datos en tránsito.</p>
 
@@ -118,7 +118,7 @@
                     </li>
                     <li class="flex gap-2">
                         <flux:icon.check-circle variant="mini" class="text-green-500" />
-                        HTTPS y limitación de tasa activos en todas las cuentas.
+                        HTTPS activo en todas las cuentas.
                     </li>
                 </ul>
 
