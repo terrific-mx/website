@@ -64,7 +64,7 @@
 
             <p class="mt-6">
                 Olvídate de configurar SMTP, asegurar servidores u hospedar formularios.
-                <strong>Formularios y envíos ilimitados</strong> por un precio anual bajo hacen que capturar leads sea <strong>predecible y económico</strong>.
+                <strong>Formularios y envíos ilimitados</strong> a un precio anual bajo hacen que capturar leads sea un proceso <strong>predecible y económico</strong>.
                 Consulta el <strong>historial de entradas</strong>, busca entradas recibidas y recibe <strong>notificaciones</strong> en el momento en que llega un lead — ideal para landing pages, portafolios y sitios corporativos donde <strong>cada mensaje importa</strong>.
             </p>
 
@@ -97,7 +97,7 @@
             </p>
 
             <p class="mt-6">
-                <strong>¿Prefieres migrar?</strong> Este servicio es hospedado en la nuebe para tu mayor comodidad — si decides migrar, nuestro servicio de soporte te ayuda con una exportación de tus datos.
+                <strong>¿Prefieres migrar?</strong> Este servicio es hospedado en la nube para tu mayor comodidad — si decides migrar, nuestro servicio de soporte te ayuda con la exportación de tus datos.
             </p>
 
             <flux:card class="max-w-lg mx-auto mt-20">
