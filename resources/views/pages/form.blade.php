@@ -38,7 +38,7 @@
             [&>ul>li>p>strong]:text-zinc-950 [&>ul>li>p>strong]:font-medium
         ">
             <h1>
-                Obtén respuestas de tus formularios sin escribir código de servidor
+                Recibe respuestas de tus formularios sin necesidad de backend
             </h1>
             <p class="max-w-lg mx-auto mt-6" data-lead>
                 Solo copia y pega tu endpoint y comienza a recibir leads.
@@ -52,10 +52,10 @@
                 Ideal para desarrolladores, diseñadores y pequeñas agencias que lanzan landing pages — y propietarios sin conocimientos técnicos que usan Wix, Webflow o Squarespace y quieren capturar leads sin backend.
             </p>
 
-            <h2 class="mt-20">Sin servidor. Sin despliegues. Sin complicaciones.</h2>
+            <h2 class="mt-20">Formularios sin servidor para sitios estáticos</h2>
 
             <p class="mt-6">
-                Solo apunta tu formulario a una URL y empieza a recibir envíos en minutos.
+                Sin servidor. Sin despliegues. Sin complicaciones. Solo apunta tu formulario a una URL y empieza a recibir envíos en minutos.
             </p>
 
             <p class="mt-6">
@@ -66,7 +66,7 @@
                 Olvídate de configurar SMTP, preocuparte por la seguridad del servidor o alojar formularios. Formularios y envíos ilimitados por una tarifa anual baja hacen que la captura de leads sea predecible y económica. Consulta el historial de envíos, busca entradas pasadas y recibe notificaciones en el momento en que llega un lead — ideal para landing pages, portafolios y sitios corporativos donde cada mensaje importa.
             </p>
 
-            <h2 class="mt-20">Untitled</h2>
+            <h2 class="mt-20">Endpoints rápidos y precios previsibles</h2>
 
             <p class="mt-6">
                 Endpoints instantáneos: crea un formulario y obtén una URL de action al instante. <strong>Lanza más rápido.</strong>
@@ -80,7 +80,7 @@
 
             <p class="mt-6">HTTPS por defecto: todos los endpoints cifran los datos en tránsito. <strong>Mayor seguridad.</strong></p>
 
-            <h2 class="mt-20">Untitled</h2>
+            <h2 class="mt-20">Privacidad, seguridad e integraciones</h2>
 
             <p class="mt-6">
                 <strong>¿Privacidad?</strong> Los envíos se almacenan de forma segura y solo los usuarios autorizados de la cuenta tienen acceso. Si necesitas exportar todo, nuestro soporte puede ofrecerte archivos CSV o JSON.
