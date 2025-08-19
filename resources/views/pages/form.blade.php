@@ -47,44 +47,44 @@
 
             <p class="mt-48">
                 ¿Cansado de perder oportunidades porque tu sitio no puede recibir formularios?
-                Olvídate de la programación y empieza a recibir respuestas hoy mismo.
-                Solo copia el endpoint, conecta tu formulario HTML y listo: cada envío llega seguro a tu panel y a tu correo.
+                <strong>Olvídate de la programación</strong> y empieza a <strong>recibir respuestas hoy mismo</strong>.
+                Solo copia el endpoint, conecta tu formulario HTML y listo: <strong>cada envío llega seguro</strong> a tu panel y a tu correo.
             </p>
 
             <p class="mt-6">
-                Perfecto para creadores de sitios estáticos, usuarios de plataformas como Wix, Squarespace o Webflow, pequeños negocios, emprendedores, freelancers, desarrolladores y cualquier persona que necesite una solución rápida y económica para gestionar formularios en su página web.
+                Perfecto para creadores de sitios estáticos, usuarios de plataformas como Wix, Squarespace o Webflow, pequeños negocios, emprendedores, freelancers, desarrolladores y cualquier persona que necesite una <strong>solución rápida y económica</strong> para gestionar formularios en su página web.
             </p>
 
             <h2 class="mt-20">¿Por qué elegir Terrific Form?</h2>
 
             <p class="mt-6">
-                Olvídate del código y el estrés: recibe y gestiona envíos de formularios sin tocar el backend.
+                Olvídate del código y el estrés: recibe y gestiona envíos de formularios <strong>sin tocar el backend</strong>.
             </p>
 
             <p class="mt-6">
-                Terrific Form funciona en cualquier sitio web, solo necesitas el atributo <code>action</code> en tu formulario HTML para empezar.
+                <strong>Terrific Form funciona en cualquier sitio web</strong>, solo necesitas el atributo <code class="text-base font-semibold px-1 rounded-sm bg-zinc-100 inline-block text-zinc-950">action</code> en tu formulario HTML para empezar.
             </p>
 
             <p class="mt-6">
-                Todas tus respuestas se almacenan en un panel centralizado, donde puedes consultarlas fácilmente y nunca perder ningún dato.
+                Todas tus respuestas se almacenan en un <strong>panel centralizado</strong>, donde puedes consultarlas fácilmente y nunca perder ningún dato.
             </p>
 
             <p class="mt-6">
-                Recibe notificaciones instantáneas por correo electrónico cada vez que alguien envía un formulario, para que siempre estés informado y puedas responder rápido.
+                Recibe <strong>notificaciones instantáneas</strong> por correo electrónico cada vez que alguien envía un formulario, para que siempre estés informado y puedas responder rápido.
             </p>
 
             <p class="mt-6">
-                Por solo $79 MXN al año, crea y recibe formularios ilimitados, sin cargos ocultos ni sorpresas.
+                Por solo <strong>$79 MXN al año</strong>, crea y recibe formularios ilimitados, <strong>sin cargos ocultos ni sorpresas</strong>.
             </p>
 
             <p class="mt-6">
-                Además, puedes comenzar con una prueba gratuita de 30 días, sin riesgo y comprobando lo fácil que es transformar la gestión de tus formularios.
+                Además, puedes comenzar con una <strong>prueba gratuita de 30 días</strong>, sin riesgo y comprobando lo fácil que es transformar la gestión de tus formularios.
             </p>
 
             <h2 class="mt-20">¿Te preocupa la seguridad, la privacidad o la confiabilidad?</h2>
 
             <p class="mt-6">
-                Tus datos siempre se almacenan en servidores seguros, y tú eres el único dueño de tus respuestas. Puedes exportarlas cuando lo necesites, sin restricciones.
+                Tus datos siempre se almacenan en <strong>servidores seguros</strong>, y tú eres el <strong>único dueño de tus respuestas</strong>. Puedes exportarlas cuando lo necesites, <strong>sin restricciones</strong>.
             </p>
 
             <p class="mt-6">
