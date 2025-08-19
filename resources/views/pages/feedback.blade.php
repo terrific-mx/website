@@ -170,7 +170,7 @@
         </main>
 
         <footer class="mt-24 p-4">
-            <div class="flex items-center justify-between text-zinc-400 text-sm max-w-xl mx-auto">
+            <div class="flex flex-wrap items-center justify-between text-zinc-400 text-sm max-w-xl mx-auto gap-2">
                 <p class="text-sm flex items-center gap-2.5">
                     <x-app-logo-icon class="size-4 text-zinc-300" />
                     <span>
