@@ -66,7 +66,7 @@ Aunque en mercados más desarrollados existen herramientas similares para la ges
 
 Por lo tanto, Terrific Feedback se posiciona en un mercado emergente, donde todavía hay mucho espacio para educar a los clientes sobre los beneficios de recopilar y priorizar feedback de manera estructurada, y donde la competencia directa es limitada o incipiente. Esto representa una oportunidad para captar usuarios que buscan modernizar la forma en que escuchan y atienden a sus clientes.
 
-## Nivel de conciencia del cliente
+## Stage de conciencia del cliente
 
 El nivel de conciencia del cliente sobre Terrific Feedback y este tipo de soluciones probablemente sea bajo o inicial.
 
