@@ -57,16 +57,16 @@
                 </p>
 
                 <ul class="mt-4 space-y-2">
-                    <li class="flex gap-1 items-center">
-                        <flux:icon.chevron-right variant="micro" class="text-zinc-400" />
+                    <li class="flex gap-1">
+                        <flux:icon.chevron-right variant="micro" class="text-zinc-400 mt-1" />
                         <p>Enviar comentarios y sugerencias en segundos.</p>
                     </li>
-                    <li class="flex gap-1 items-center">
-                        <flux:icon.chevron-right variant="micro" class="text-zinc-400" />
+                    <li class="flex gap-1">
+                        <flux:icon.chevron-right variant="micro" class="text-zinc-400 mt-1" />
                         <p>Votar por las ideas que más les interesan.</p>
                     </li>
-                    <li class="flex gap-1 items-center">
-                        <flux:icon.chevron-right variant="micro" class="text-zinc-400" />
+                    <li class="flex gap-1">
+                        <flux:icon.chevron-right variant="micro" class="text-zinc-400 mt-1" />
                         <p>Reportar errores y discutir propuestas.</p>
                     </li>
                 </ul>
