@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}" class="antialiased">
     <head>
-        @include('partials.poll-head', ['title' => 'Terrific Poll - Agrega encuestas interactivas a cualquier newsletter, sin complicaciones técnicas'])
+        @include('partials.feedback-head', ['title' => 'Terrific Feedback - Haz que tus usuarios te guíen. Convierte opiniones en decisiones inteligentes.'])
     </head>
     <body>
         <header class="px-4 mt-4">
