@@ -38,77 +38,74 @@
             [&>ul>li>p>strong]:text-zinc-950 [&>ul>li>p>strong]:font-medium
         ">
             <h1>
-                Recibe respuestas a tus formularios sin necesidad de backend
+                Recibe respuestas de tus formularios web sin programar un backend
             </h1>
+
             <p class="max-w-lg mx-auto mt-6" data-lead>
-                Solo copia y pega tu endpoint y comienza a recibir leads.
+                Convierte cualquier formulario en tu sitio en una fuente de clientes, sin complicaciones técnicas.
             </p>
 
             <p class="mt-48">
-                Recibe envíos al instante desde sitios estáticos y creadores de páginas (Wix, Webflow, Squarespace). <strong>Prueba gratis 30 días.</strong> Después, <strong>79 MXN/año</strong> por formularios y envíos ilimitados.
+                ¿Cansado de perder oportunidades porque tu sitio no puede recibir formularios?
+                Olvídate de la programación y empieza a recibir respuestas hoy mismo.
+                Solo copia el endpoint, conecta tu formulario HTML y listo: cada envío llega seguro a tu panel y a tu correo.
             </p>
 
             <p class="mt-6">
-                Ideal para <strong>desarrolladores, diseñadores y pequeñas agencias</strong> que crean landing pages — y para propietarios de sitios sin conocimientos técnicos que usan Wix, Webflow o Squarespace y quieren <strong>capturar leads sin backend</strong>.
+                Perfecto para creadores de sitios estáticos, usuarios de plataformas como Wix, Squarespace o Webflow, pequeños negocios, emprendedores, freelancers, desarrolladores y cualquier persona que necesite una solución rápida y económica para gestionar formularios en su página web.
             </p>
 
-            <h2 class="mt-20">Formularios sin un servidor</h2>
+            <h2 class="mt-20">¿Por qué elegir Terrific Form?</h2>
 
             <p class="mt-6">
-                <strong>Sin servidor. Sin despliegues. Sin complicaciones.</strong> Solo apunta tu formulario a una URL y empieza a recibir envíos en minutos.
-            </p>
-
-            <p class="mt-6">
-                Crea un formulario en segundos, copia el endpoint generado y pégalo en el atributo <code class="font-medium bg-yellow-200 text-zinc-950 px-1">action</code> de tu formulario — los envíos llegan a tu cuenta y también recibes una <strong>notificación por correo</strong>. Mantén tu HTML y diseño tal cual; Terrific Form solo captura los datos que le envías.
+                Olvídate del código y el estrés: recibe y gestiona envíos de formularios sin tocar el backend.
             </p>
 
             <p class="mt-6">
-                Olvídate de configurar SMTP, asegurar servidores u hospedar formularios.
-                <strong>Formularios y envíos ilimitados</strong> a un precio anual bajo hacen que capturar leads sea un proceso <strong>predecible y económico</strong>.
-                Consulta el <strong>historial de entradas</strong>, busca entradas recibidas y recibe <strong>notificaciones</strong> en el momento en que llega un lead — ideal para landing pages, portafolios y sitios corporativos donde <strong>cada mensaje importa</strong>.
-            </p>
-
-            <h2 class="mt-20">Endpoints rápidos y precios previsibles</h2>
-
-            <p class="mt-6">
-                <strong>Lanza más rápido</strong>. Endpoints instantáneos: crea un formulario y obtén una URL de <code class="font-medium bg-yellow-200 text-zinc-950 px-1">action</code> al instante.
-            </p>
-
-            <p class="mt-6"><strong>Costos previsibles</strong>. Formularios y envíos ilimitados: tarifa plana anual — sin cargos sorpresa.</p>
-
-            <p class="mt-6"><strong>Contacto más veloz con clientes potenciales.</strong> Alertas por correo: recibe notificaciones de nuevos envíos para responder rápido.</p>
-
-            <p class="mt-6"><strong>Gestiona tus entradas sin herramientas adicionales</strong>. Historial de entradas: explora, busca y exporta entradas anteriores.</p>
-
-            <p class="mt-6"><strong>Mayor seguridad</strong>. HTTPS por defecto: todos los endpoints cifran los datos en tránsito.</p>
-
-            <h2 class="mt-20">Privacidad, seguridad e integraciones</h2>
-
-            <p class="mt-6">
-                <strong>¿Privacidad?</strong> Los envíos se almacenan de forma segura y solo los usuarios autorizados de la cuenta tienen acceso. Si necesitas exportar todo, nuestro soporte puede ofrecerte archivos CSV o JSON.
+                Terrific Form funciona en cualquier sitio web, solo necesitas el atributo <code>action</code> en tu formulario HTML para empezar.
             </p>
 
             <p class="mt-6">
-                <strong>¿Seguridad?</strong> Todos los endpoints usan <strong>HTTPS</strong> y protección estándar — tus datos viajan siempre <strong>cifrados</strong>.
+                Todas tus respuestas se almacenan en un panel centralizado, donde puedes consultarlas fácilmente y nunca perder ningún dato.
             </p>
 
             <p class="mt-6">
-                <strong>¿Integraciones o webhooks?</strong> Por ahora puedes <strong>exportar datos manualmente</strong>; los <strong>webhooks</strong> están en fase de planeación.
+                Recibe notificaciones instantáneas por correo electrónico cada vez que alguien envía un formulario, para que siempre estés informado y puedas responder rápido.
             </p>
 
             <p class="mt-6">
-                <strong>¿Prefieres migrar?</strong> Este servicio es hospedado en la nube para tu mayor comodidad — si decides migrar, nuestro servicio de soporte te ayuda con la exportación de tus datos.
+                Por solo $79 MXN al año, crea y recibe formularios ilimitados, sin cargos ocultos ni sorpresas.
+            </p>
+
+            <p class="mt-6">
+                Además, puedes comenzar con una prueba gratuita de 30 días, sin riesgo y comprobando lo fácil que es transformar la gestión de tus formularios.
+            </p>
+
+            <h2 class="mt-20">¿Te preocupa la seguridad, la privacidad o la confiabilidad?</h2>
+
+            <p class="mt-6">
+                Tus datos siempre se almacenan en servidores seguros, y tú eres el único dueño de tus respuestas. Puedes exportarlas cuando lo necesites, sin restricciones.
+            </p>
+
+            <p class="mt-6">
+                El servicio funciona incluso si nunca has programado un backend, aunque tu plataforma no lo soporte. Así puedes recibir formularios sin complicaciones técnicas.
+            </p>
+
+            <p class="mt-6">
+                Si tienes dudas sobre privacidad, soporte o integraciones, solo escríbenos. Respondemos rápido por correo y teléfono para que nunca te quedes sin ayuda.
             </p>
 
             <flux:card class="max-w-lg mx-auto mt-20">
                 <h2 class="text-2xl max-sm:text-xl font-medium tracking-tight text-zinc-950 text-center mt-2">
-                    Prueba gratuita de 30 días
+                    Activa tu prueba gratuita y recibe tu primer formulario en minutos.
                 </h2>
-                <p class="text-center mt-4">Prueba todas las funcionalidades antes de pagar.</p>
+                <p class="text-center mt-4">
+                    Transforma tu sitio en una máquina de captación.
+                </p>
                 <ul class="mt-10 gap-3 grid md:grid-cols-2 md:gap-x-6 md:gap-y-3 text-sm">
                     <li class="flex gap-2">
                         <flux:icon.check-circle variant="mini" class="text-green-500" />
-                        <span><strong class="font-medium text-zinc-950">79 MXN/año</strong> — formularios y envíos ilimitados.</span>
+                        <span><strong class="font-medium text-zinc-950">79 MXN/año</strong> — formularios ilimitados.</span>
                     </li>
                     <li class="flex gap-2">
                         <flux:icon.check-circle variant="mini" class="text-green-500" />
@@ -125,15 +122,9 @@
                 </ul>
 
                 <flux:button href="https://form.terrific.com.mx/register" variant="primary" color="amber" class="mt-10 w-full text-base!">
-                    Empieza tu prueba gratis de 30 días
+                    Probar gratis 30 días
                 </flux:button>
-
-                <p class="text-center mt-4 text-sm font-medium text-zinc-950">Crea tu primer endpoint ahora.</p>
             </flux:card>
-
-            <p class="mt-20">
-                <strong>Captura leads hoy sin servidores</strong> — <strong>sin riesgo durante 30 días</strong> y a un precio bajo después.
-            </p>
 
             <div class="mt-64 flex items-center justify-between text-zinc-400">
                 <p class="text-sm flex items-center gap-2.5">
