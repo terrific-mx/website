@@ -97,33 +97,48 @@
 
             <flux:card class="max-w-lg mx-auto mt-20">
                 <h2 class="text-2xl max-sm:text-xl font-medium tracking-tight text-zinc-950 text-center mt-2">
-                    Activa tu prueba gratuita y recibe tu primer formulario en minutos.
+                    Precios claros y sin sorpresas
                 </h2>
-                <p class="text-center mt-4">
-                    Transforma tu sitio en una máquina de captación.
+                <p class="text-center mt-4 max-w-sm mx-auto">
+                    Elige la forma más sencilla y económica de recibir formularios web.
                 </p>
                 <ul class="mt-10 gap-3 grid md:grid-cols-2 md:gap-x-6 md:gap-y-3 text-sm">
                     <li class="flex gap-2">
                         <flux:icon.check-circle variant="mini" class="text-green-500" />
-                        <span><strong class="font-medium text-zinc-950">79 MXN/año</strong> — formularios ilimitados.</span>
+                        <div>
+                            <h3 class="font-medium text-zinc-950">Prueba gratuita de 30 días</h3>
+                            <p class="mt-0.5">Comienza sin riesgo y prueba todas las funciones.</p>
+                        </div>
                     </li>
                     <li class="flex gap-2">
                         <flux:icon.check-circle variant="mini" class="text-green-500" />
-                        <span><strong class="text-zinc-950 font-medium">Configuración rápida</strong>: obtén un endpoint funcional en menos de 60 segundos.</span>
+                        <div>
+                            <h3 class="font-medium text-zinc-950">Tarifa anual fija</h3>
+                            <p class="mt-0.5">Solo $79 MXN al año, sin cargos ocultos ni comisiones.</p>
+                        </div>
                     </li>
                     <li class="flex gap-2">
                         <flux:icon.check-circle variant="mini" class="text-green-500" />
-                        Exportaciones disponibles en CSV y JSON bajo solicitud.
+                        <div>
+                            <h3 class="font-medium text-zinc-950">Formularios ilimitados</h3>
+                            <p class="mt-0.5">Crea todos los formularios que necesites.</p>
+                        </div>
                     </li>
+
                     <li class="flex gap-2">
                         <flux:icon.check-circle variant="mini" class="text-green-500" />
-                        HTTPS activo en todas las cuentas.
+                        <div>
+                            <h3 class="font-medium text-zinc-950">Envíos ilimitados</h3>
+                            <p class="mt-0.5">Recibe tantas respuestas como quieras, sin límites.</p>
+                        </div>
                     </li>
                 </ul>
 
                 <flux:button href="https://form.terrific.com.mx/register" variant="primary" color="amber" class="mt-10 w-full text-base!">
                     Probar gratis 30 días
                 </flux:button>
+
+                <p class="mt-4 font-medium text-zinc-950 text-center text-sm">Empieza ahora y crea tu primer formulario en minutos.</p>
             </flux:card>
 
             <div class="mt-64 flex items-center justify-between text-zinc-400">

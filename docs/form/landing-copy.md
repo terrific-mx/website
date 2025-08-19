@@ -45,6 +45,22 @@ Si tienes dudas sobre privacidad, soporte o integraciones, solo escríbenos. Res
 
 ---
 
+### Precios claros y sin sorpresas
+
+#### Elige la forma más sencilla y económica de recibir formularios web
+
+- **Prueba gratuita de 30 días:** Comienza sin riesgo y prueba todas las funciones.
+- **Tarifa anual fija:** Solo $79 MXN al año, sin cargos ocultos ni comisiones.
+- **Formularios ilimitados:** Crea y recibe todos los formularios que necesites.
+- **Envíos ilimitados:** Recibe tantas respuestas como quieras, sin límites.
+- **Soporte incluido:** Ayuda rápida por correo y teléfono, siempre disponible.
+
+**Empieza ahora y recibe tu primer formulario en minutos.**
+
+[Probar gratis 30 días](#registro)
+
+---
+
 ## Empieza ahora
 
 Activa tu prueba gratuita y recibe tu primer formulario en minutos. Haz clic para crear tu cuenta y transforma tu sitio en una máquina de captación.
